@@ -37,6 +37,8 @@ namespace Week3LAbTask
         static void LambdaSyntax()
         {
 
+
+
         }
     }
 }
